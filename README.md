@@ -8,8 +8,9 @@ This repository contains my personal site, built using NextJS, and shows my dive
 
 - 📫 How to reach me: lusayohendy@gmail.com.
 - 😄 Pronouns: He / Him.
-- ⚡ Interested in: Web Development, Web Scraping, Data Pipeline Development, Mobile Development, Desktop Development, Blockchain Development.
-- Currently, trying to teach myself all about solidity and web3.
+- ⚡ Interested in: Web Development, Web Scraping, Data Engineering, Mobile Development, Desktop Development.
+  
+- Currently, trying to teach myself all about Solidity, Web3, and dApps.
 
 ## 👩🏾‍💻 Tech Stack Experience
 
