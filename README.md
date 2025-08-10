@@ -2,7 +2,7 @@
 
 I'm Lusayo. I'm a Software Engineer with experience in Python (Django/FastAPI), TypeScript (Next.js/React/Node), Dart (Flutter), and Java (Kafka Streams/Flink).
 
-I'm also proficient in Linux Systems Administration (with emphasis on Debian/Ubuntu) and Data Engineering, particularly real-time event streaming pipelines and orchestration with Python, Quixstreams, Kafka, Flink, and Airflow.
+I'm also proficient in Linux Systems Administration (with emphasis on Debian/Ubuntu), CI/CD with Docker/GitHub, and Data Engineering, particularly real-time event streaming pipelines and orchestration with Python, Quixstreams, Kafka, Flink, and Airflow.
 
 This repository contains my personal site, built using NextJS, and shows my diverse skillset. Please do visit it at [https://lusayo-nyondo.github.io](https://lusayo-nyondo.github.io).
 
