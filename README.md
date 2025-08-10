@@ -64,6 +64,8 @@ This repository contains my personal site, built using NextJS, and shows my dive
 
 ## Workflow & Work Tools
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF3E00?logo=n8n&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
