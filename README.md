@@ -23,6 +23,7 @@ This repository contains my personal site, built using NextJS, and shows my dive
 ![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-0093D0?logo=Django&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-040404?logo=Scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?logo=Playwright&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-DD0031?logo=Puppeteer&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white)
