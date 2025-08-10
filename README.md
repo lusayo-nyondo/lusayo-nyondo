@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I'm Lusayo. I'm a Software Engineer with experience in Python (Django/FastAPI), TypeScript (Next.js/React/Node), Dart (Flutter), and Java (Kafka/Flink).
+I'm Lusayo. I'm a Software Engineer with experience in Python (Django/FastAPI), TypeScript (Next.js/React/Node), Dart (Flutter), and Java (Kafka Streams/Flink).
 
-I also work across Data Engineering building streaming pipelines and orchestration with Kafka, Flink, and Airflow. This repository contains my personal site, built using NextJS, and shows my diverse skillset. Please do visit it at [https://lusayo-nyondo.github.io](https://lusayo-nyondo.github.io).
+I'm also proficient in Data Engineering, particularly real-time event streaming pipelines and orchestration with Python, Quixstreams, Kafka, Flink, and Airflow.
+
+This repository contains my personal site, built using NextJS, and shows my diverse skillset. Please do visit it at [https://lusayo-nyondo.github.io](https://lusayo-nyondo.github.io).
 
 
 - 📫 How to reach me: lusayohendy@gmail.com.
@@ -12,27 +14,32 @@ I also work across Data Engineering building streaming pipelines and orchestrati
 
 ## 👩🏾‍💻 Tech Stack 
 
-![Debian](https://img.shields.io/badge/Debian-%2315803D.svg?logo=Debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%2315803D.svg?logo=Ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%2315803D.svg?logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%2315803D.svg?logo=Git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2315803D.svg?logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%2315803D.svg?logo=Django&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-%2315803D.svg?logo=Scrapy&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-%2315803D.svg?logo=Puppeteer&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%2315803D.svg?logo=Pandas&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-%2315803D.svg?logo=Celery&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%2315803D.svg?logo=Apache%20Kafka)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%2315803D.svg?logo=Apache%20Airflow)
-![Javascript](https://img.shields.io/badge/Javascript-%2315803D.svg?logo=Javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2315803D.svg?logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2315803D.svg?logo=React&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2315803D.svg?logo=Tailwind%20CSS&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%2315803D.svg?logo=PHP&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-%2315803D.svg?logo=Wordpress)
+![Debian](https://img.shields.io/badge/Debian-CB0000?logo=Debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-040404?logo=Scrapy&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-DD0031?logo=Puppeteer&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-3A9B1B?logo=Celery&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=Apache%20Kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=C&logoColor=white)
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lusayo-nyondo-932a6117b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lusayo-nyondo/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lusayo_ny)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/users/lusayo_ny)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?logo=Dev.to&logoColor=white)](https://dev.to/lusayo_ny)
